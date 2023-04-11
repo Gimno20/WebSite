@@ -103,3 +103,15 @@ button:hover {
     margin-left: 320px;
     padding-bottom: 20px;
 }
+
+.SecondEllips{
+    margin-left: 1330px;
+    position: absolute;
+    bottom: 0;
+}
+
+.ThirdEllips{
+    margin-left: 1050px;
+    position: absolute;
+    bottom: 0;
+}
