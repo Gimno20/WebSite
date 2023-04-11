@@ -93,6 +93,12 @@ border-radius: 10px;
     color: #FFFFFF;
 }
 
+button:hover {
+	background: rgba(0,0,0,0);
+	color: #8638B5;
+	box-shadow: inset 0 0 0 3px #8638B5;
+}
+
 .CheckBoxAndButton{
     margin-left: 320px;
     padding-bottom: 20px;
