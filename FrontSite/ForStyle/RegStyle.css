@@ -1,0 +1,122 @@
+.FirstEllips{
+    margin-left: -10px;
+    margin-top: -10px;
+}
+   
+.samolet{
+    margin-top: -190px;
+    margin-left: 680px;
+}
+   
+.box{
+    display: flex;
+    justify-content: center;
+}
+   
+.textStyle{
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000000;
+}
+   
+.form{
+    background-color: #ffffff;
+    margin-top: 20px;
+    border: 1px black;
+    padding: auto;
+    box-shadow: 0 0 4px;
+    width:600px;
+    align-items: center;
+    border-radius: 30px;
+}
+   
+.textBox1{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+   
+.textBox2{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.textBox3{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.textBox4{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+   
+   .InputBox{
+   width: 555px;
+   height: 40px;  
+   background: #FFFFFF;
+   border: 1px solid rgba(0, 0, 0, 0.1);
+   box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+   border-radius: 10px;
+}
+   
+   .textbox{
+    border: 1px solid #848484;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    outline:0;
+    height:20px;
+    width: 150px;
+}
+   
+.linkA{
+   text-decoration: none;       
+   font-family: 'Inter';
+   font-style: italic;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19px;
+   text-decoration-line: underline;
+   color: rgba(0, 0, 0, 0.4);
+   padding-right: 10px;
+}
+   
+.LOGIN{
+    width: 90px;
+    height: 30px;
+    background: #8638B5;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    font-family: 'Inter';
+    font-style: italic;
+    font-size: 18   px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+   
+button:hover {
+    background: rgba(0,0,0,0);
+    color: #8638B5;
+    box-shadow: inset 0 0 0 3px #8638B5;
+}
+   
+.LinkAndButton{
+    margin-top: 40px;
+    margin-left: 320px;
+    padding-bottom: 20px;
+}
+   
+.SecondEllips{
+   margin-left: 1330px;
+   position: absolute;
+   bottom: 0;
+}
+   
+.ThirdEllips{
+    margin-left: 1050px;
+    position: absolute;
+    bottom: 0;
+}
