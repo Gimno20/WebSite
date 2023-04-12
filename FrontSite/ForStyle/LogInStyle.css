@@ -4,8 +4,11 @@
 }
 
 .samolet{
-    margin-top: -190px;
-    margin-left: 680px;
+    /* margin-top: -190px;
+    margin-left: 680px; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .box{
@@ -105,13 +108,19 @@ button:hover {
 }
 
 .SecondEllips{
-    margin-left: 1330px;
     position: absolute;
     bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    z-index: -100;
 }
 
 .ThirdEllips{
-    margin-left: 1050px;
     position: absolute;
     bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    z-index: -100;
 }
