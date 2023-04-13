@@ -132,6 +132,8 @@ a:hover{
 }
 
 .containerText{
+    display: flex;
+    justify-content: center;
     padding-top: 40px;
     font-family: 'Inter';
     font-style: italic;
