@@ -76,7 +76,7 @@ border-radius: 10px;
     font-family: 'Inter';
     font-style: italic;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 19px;
     text-decoration-line: underline;
     color: rgba(0, 0, 0, 0.4);
@@ -91,7 +91,7 @@ border-radius: 10px;
     border-radius: 10px;
     font-family: 'Inter';
     font-style: italic;
-    font-size: 18   px;
+    font-size: 18px;
     line-height: 24px;
     color: #FFFFFF;
 }
@@ -103,7 +103,7 @@ button:hover {
 }
 
 .CheckBoxAndButton{
-    margin-left: 320px;
+    margin-left: 360px;
     padding-bottom: 20px;
 }
 

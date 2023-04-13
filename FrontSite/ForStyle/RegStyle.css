@@ -81,7 +81,7 @@ border-radius: 30px;
    font-family: 'Inter';
    font-style: italic;
    font-weight: 400;
-   font-size: 16px;
+   font-size: 18px;
    line-height: 19px;
    text-decoration-line: underline;
    color: rgba(0, 0, 0, 0.4);
@@ -89,14 +89,14 @@ border-radius: 30px;
 }
    
 .LOGIN{
-    width: 90px;
+    width: 175px;
     height: 30px;
     background: #8638B5;
     border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     font-family: 'Inter';
     font-style: italic;
-    font-size: 18   px;
+    font-size: 18px;
     line-height: 24px;
     color: #FFFFFF;
 }
@@ -109,7 +109,7 @@ button:hover {
    
 .LinkAndButton{
     margin-top: 40px;
-    margin-left: 320px;
+    margin-left: 200px;
     padding-bottom: 20px;
 }
    
