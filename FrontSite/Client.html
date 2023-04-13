@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Клиенты</title>
+    <link rel="stylesheet" href="../FrontSite/ForStyle/ClientStyle.css">
+</head>
+<body>
+    <div class="FirstEllips">
+        <img src="../FrontSite/Img/Ellipse 3.png" style="width: 250px; z-index: -100; display: block;">
+    </div>
+
+    <header class="header">
+        <div class="header__top">
+            <img src="../FrontSite/Img/image 2.png" class="LogoPhoto">
+                <ul class="menu__list">
+                    <li class="List"><a href="../FrontSite/Panel.html">Панель</a></li>
+                    <li class="List"><a href="">Клиенты</a></li>
+                    <li class="List"><a href="">Лиды</a></li>
+                    <li class="List"><a href="">Отделы</a></li>
+                    <li class="List"><a href="">Пользователи</a></li>
+                    <li class="List">User<img src="../FrontSite/Img/Strelka.png" style="width: 30px; position: absolute; padding-top: 10px; padding-left: 10px;"></li>
+                </ul>
+        </div>
+    </header>
+
+    <!--<div class="GhostPanel"></div>-->
+
+    <div class="form">
+        <div class="FormContent">
+            <div class="textBox1">
+                <label class="textStyle">Имя</label><br><input type="text" placeholder="Имя" pattern="[А-Яа-яЁё ]+" class="InputBox" required>
+            </div>
+            <div class="textBox2">
+                <label class="textStyle">Телефон</label><br><input type="tel" name="phone" placeholder="Телефон" tabindex="10" pattern="/([+][7]|[8])\-?(\d{3})\-?(\d{3})\-?(\d{2})\-?(\d{2})\-?" class="InputBox" required>
+            </div>
+            <div class="textBox3">
+                <label class="textStyle">Email адрес</label><br> <input type="emal"  name="mail" placeholder="Adress@mail.ru" pattern="[a-zA-Z]{1,}[a-zA-Z0-9.-_][a-zA-Z0-9]{1,}@(mail|gmail|yahoo|yandex).(ru|com)" class="InputBox" required>
+            </div>
+            <div class="textBox4">
+                <label class="textStyle">Дата рождения</label><br> <input type="date" min="1900-01-01" max="2023-06-30"  class="InputBox" required>
+            </div>
+            <div class="textBox5">
+                <label class="textStyle">Комментарии</label><br><input type="text" placeholder="Комментарий" pattern="[А-Яа-яЁё ]+" class="InputBox">
+            </div>
+            <div class="ButtonAdd">
+                <button class="ButtonStyle">Добавить</button>
+            </div>
+        </div>
+    </div>
+
+    
+   
+
+    
+
+
+        <div class="SecondEllips">
+            <img src="../FrontSite/Img/Ellipse 2.png" style="width: 160px; display: block;">
+        </div>
+        <div class="ThirdEllips">
+            <img src="../FrontSite/Img/Ellipse 1.png" style="width: 440px; display: block;">
+        </div>
+</body>
+</html>
